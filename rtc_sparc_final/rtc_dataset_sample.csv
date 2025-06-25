@@ -1,0 +1,5 @@
+radius,mass,volume,age,observed_velocity
+1,1e9,1e3,1e9,100
+2,2e9,8e3,1e9,130
+3,3e9,27e3,1e9,150
+4,4e9,64e3,1e9,160

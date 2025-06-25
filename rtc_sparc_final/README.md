@@ -10,9 +10,9 @@ Ce dossier contient un notebook Jupyter permettant d’appliquer la loi RTC sur 
 
 ## ▶️ Utilisation via Binder (zéro installation)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MattGalo/RTC_Universal_Model/HEAD?filepath=rtc_sparc_final%2Frtc_sparc_analysis.ipynb)
 
-Cliquez sur le badge ci-dessus (ou ouvrez ce dossier dans GitHub Codespaces) et exécutez le notebook.
+Cliquez sur le bouton ci-dessus pour exécuter le notebook Jupyter en ligne.
 
 ## 🔬 Objectif
 
